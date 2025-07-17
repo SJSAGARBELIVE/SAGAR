@@ -1,4 +1,4 @@
-<!-- Cover Banner -->
+<!-- ✅ Banner Image -->
 <p align="center">
   <img src="assets/cover-page.png" alt="Sagar Panigrahi Banner" width="100%" />
 </p>
@@ -6,40 +6,38 @@
 <h1 align="center">Hi 👋, I'm Sagar Panigrahi</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="left">
+<!-- 👁️ Profile Views Counter -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sjsagarbelive&label=Profile%20views&color=0e75b6&style=flat" alt="sjsagarbelive" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sjsagarbelive" alt="sjsagarbelive trophies" />
-  </a>
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sjsagarbelive" alt="Trophies" />
 </p>
 
-- 🌱 I’m currently learning **Master of Computer Application**
+---
 
+- 🌱 I’m currently learning **Master of Computer Application**
 - 📫 How to reach me: **Ragh1984fgh@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-
+### 🔗 Connect with Me:
 <p align="left">
-  <a href="mailto:shyampanigrahi62@gmail.com">
+  <a href="mailto:shyampanigrahi62@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail.png" width="30px" />
-    shyampanigrahi62@gmail.com
-  </a>
-  <br />
-  <a href="tel:+919820764823">
+    &nbsp;shyampanigrahi62@gmail.com
+  </a><br/>
+  <a href="tel:+919820764823" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="25px" />
-    +91 98207 64823
+    &nbsp;+91 98207 64823
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-
+### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -66,19 +64,20 @@
 
 ---
 
-<h3 align="center">🔥 My Coding GIF</h3>
+### 🔥 Coding in Action
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+### 📊 GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjsagarbelive&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjsagarbelive&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
