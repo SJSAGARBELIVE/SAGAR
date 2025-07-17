@@ -1,6 +1,6 @@
 <!-- ✅ Banner Image -->
 <p align="center">
-  <img src="https://github.com/SJSAGARBELIVE/SAGAR.git/main/cover-page.png" alt="Sagar Panigrahi Banner" width="100%" />
+ <img src="https://raw.githubusercontent.com/SJSAGARBELIVE/SAGAR/main/cover-page.png" alt="Sagar Panigrahi Banner" width="100%" />
 </p>
 
 
