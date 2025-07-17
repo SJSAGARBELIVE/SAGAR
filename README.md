@@ -1,6 +1,6 @@
 <!-- ✅ Banner Image -->
 <p align="center">
-  <img src="<img src="D:\Javascript/cover-page.png""alt="Sagar Panigrahi Banner" width="100%" />
+  <img src="<img src="cover page.png""alt="Sagar Panigrahi Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sagar Panigrahi</h1>
